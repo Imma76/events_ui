@@ -15,3 +15,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![events_ui](https://user-images.githubusercontent.com/70198597/141284158-d1fc70c1-c23b-4df0-b38f-09178cde1822.png)
